@@ -1,0 +1,3 @@
+- src: git@github.com:Junowa/install-openresty-waf.git
+  scm: git
+  version: master
